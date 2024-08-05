@@ -1,0 +1,9 @@
+```
+    tkinter
+    opencv-python
+    numpy
+    face_recognition
+    Pillow
+    matplotlib
+    mtcnn
+    ```
